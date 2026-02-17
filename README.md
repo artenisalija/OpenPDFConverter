@@ -1,5 +1,8 @@
 # Open PDF Converter
 
+[![PR Checks](https://github.com/artenisalija/OpenPDFConverter/actions/workflows/pr-checks.yml/badge.svg)](https://github.com/artenisalija/OpenPDFConverter/actions/workflows/pr-checks.yml)
+[![Deploy to GitHub Pages](https://github.com/artenisalija/OpenPDFConverter/actions/workflows/deploy.yml/badge.svg)](https://github.com/artenisalija/OpenPDFConverter/actions/workflows/deploy.yml)
+
 Open PDF Converter is a free, privacy-first, browser-based PDF toolkit.
 All file processing runs locally in your browser (client-side only).
 
