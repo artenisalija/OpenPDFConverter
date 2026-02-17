@@ -70,40 +70,10 @@ Your files are processed locally in your browser and are never uploaded to any s
 - No mobile hamburger menu
 - Responsive layout for upload/options/preview blocks
 
-## Local Development
+## Public Access
 
-### Requirements
-
-- Node.js 18+
-- npm
-
-### Run
-
-```bash
-npm install
-npm start
-```
-
-Open: `http://localhost:3000`
-
-Note for some Windows PowerShell environments with restricted script policy:
-
-```bash
-cmd /c npm start
-```
-
-### Build
-
-```bash
-npm run build
-```
-
-## Docker (Optional)
-
-```bash
-docker build -t pdf-app .
-docker run -p 3000:3000 pdf-app
-```
+- GitHub Actions (build/deploy pipeline): https://github.com/artenisalija/OpenPDFConverter/actions
+- Public app URL (GitHub Pages): https://artenisalija.github.io/OpenPDFConverter
 
 ## CI/CD
 
